@@ -13,3 +13,7 @@
 
 ## Font
 - https://fonts.google.com/specimen/Press+Start+2P?preview.layout=grid&query=press
+
+
+## Hosted URL
+- https://payal-gallerie.netlify.app
